@@ -1,0 +1,8 @@
+{
+  "rev": "refs/tags/v0.3.0",
+  "version": "0.3.0",
+  "hash": "usOoszv+2zS0qRTP4DzQI7E5NJ8AF7VPXTKUTBqeJNM=",
+  "paths": {
+    "app/src-tauri/plugin/skills": ["handoff", "update", "working-in-a-clone"]
+  }
+}
