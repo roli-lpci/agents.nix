@@ -17772,7 +17772,7 @@
   "github:olaradiallysymmetrical491/web3-bug-bounty-hunting-ai-skills": {"via": ["skillsdirectory-com"]},
   "github:olcubo/cubox-cli": {"via": ["skills-sh"]},
   "github:oldcircle/geo-sleuth": {"via": ["skills-sh", "skillsdirectory-com"]},
-  "github:oldhouse-g/openclaw-stock-briefing": {"via": ["skills-sh"]},
+  "github:oldhouse-g/openclaw-stock-briefing": {"via": ["skills-sh"], "deleted": "2026-10-01"},
   "github:oldirty/stripe-skill": {"via": ["skills-sh"]},
   "github:oldwinter/skills": {"via": ["skills-sh"]},
   "github:oldyade/animated-sketch-diagram": {"via": ["skillsdirectory-com"]},
