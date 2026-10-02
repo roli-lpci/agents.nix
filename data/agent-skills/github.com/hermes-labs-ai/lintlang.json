@@ -3,9 +3,6 @@
   "version": "0.8.2",
   "hash": "83ENSEw+oZzmK+EYOEgPInaA9KJBzxUFXa4jTVgqBlo=",
   "paths": {
-    ".agents/skills": [
-      "lintlang"
-    ],
     "skills": [
       "lintlang"
     ]
