@@ -1,0 +1,8 @@
+{
+  "rev": "refs/tags/okf--v0.10.0",
+  "version": "0.10.0",
+  "hash": "oko+b+0TC4MQ22jLW/mlRCooRAwkbdLOEc0XPSQGYkk=",
+  "paths": {
+    "skills": ["backfill", "okf", "validate", "visualize"]
+  }
+}
